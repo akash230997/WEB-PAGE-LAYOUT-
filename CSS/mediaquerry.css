@@ -1,0 +1,49 @@
+@media screen and (max-width:992px) {
+    .logo-name h1{
+        font-size: 1.4rem;
+        margin-top: 5px;
+    }
+    .menu li a{
+        padding: 10px 5px;
+    }
+    .sections{
+        padding-top:40px;
+        padding-bottom:40px;
+    }
+    .section-head{
+        margin-bottom: 20px;
+    }
+    .services{
+        margin-bottom: 40px;
+    }
+    .testimoial img[alt=bill-gates]{
+        margin: 10px auto;
+    }
+    .testimoial img[alt=steave]{
+        margin: 10px auto;
+    }
+    .news-posts > a > h3{
+        color: #e74c3c;
+        font-size: 1.5rem;
+    }
+    .news-posts{
+        margin-bottom: 50px;
+    }
+    .f-size{
+        margin-top: 20px;
+    }
+    .f-size p{
+        margin-top: 20px;
+    }
+}
+@media screen and (max-width:768px){
+    .testimoial{
+        text-align: center;
+    }
+    .author-company{
+        margin-bottom: 50px;
+    }
+    .footer-widget{
+        margin-bottom: 50px;
+    }
+}
